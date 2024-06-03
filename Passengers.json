@@ -1,0 +1,102 @@
+[
+    {
+      "passengerID": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "gender": "Male",
+      "age": 30,
+      "survived": true,
+      "SibSp": 1,
+      "ParCh": 0,
+      "family_size": 1,
+      "embarking_port": "Southampton",
+      "address": {
+        "street": "123 Elm St",
+        "postal_code": "90210",
+        "town": "Beverly Hills",
+        "country": "USA",
+        "state": "California"
+      },
+      "ticket": {
+        "ticket_code": "A123456",
+        "pClass": "First",
+        "fare": 300.00,
+        "boarding_port": "Southampton",
+        "destination_port": "New York"
+      },
+      "cabin_id": 1,
+      "lifeboat": {
+        "lifeboat_id": 101,
+        "capacity": 20,
+        "launchTime": "1912-04-15T02:20:00Z",
+        "survivorsCount": 18
+      }
+    },
+    {
+      "passengerID": 2,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "gender": "Female",
+      "age": 25,
+      "survived": false,
+      "SibSp": 0,
+      "ParCh": 0,
+      "family_size": 1,
+      "embarking_port": "Cherbourg",
+      "address": {
+        "street": "456 Oak St",
+        "postal_code": "12345",
+        "town": "Paris",
+        "country": "France",
+        "state": "Île-de-France"
+      },
+      "ticket": {
+        "ticket_code": "B789012",
+        "pClass": "Second",
+        "fare": 150.00,
+        "boarding_port": "Cherbourg",
+        "destination_port": "New York"
+      },
+      "cabin_id": 2,
+      "lifeboat": {
+        "lifeboat_id": 102,
+        "capacity": 25,
+        "launchTime": "1912-04-15T02:30:00Z",
+        "survivorsCount": 22
+      }
+    },
+    {
+      "passengerID": 3,
+      "first_name": "Emily",
+      "last_name": "Johnson",
+      "gender": "Female",
+      "age": 40,
+      "survived": true,
+      "SibSp": 1,
+      "ParCh": 2,
+      "family_size": 4,
+      "embarking_port": "Queenstown",
+      "address": {
+        "street": "789 Pine St",
+        "postal_code": "67890",
+        "town": "Dublin",
+        "country": "Ireland",
+        "state": "Leinster"
+      },
+      "ticket": {
+        "ticket_code": "C345678",
+        "pClass": "Third",
+        "fare": 50.00,
+        "boarding_port": "Queenstown",
+        "destination_port": "New York"
+      },
+      "cabin_id": 3,
+      "lifeboat": {
+        "lifeboat_id": 103,
+        "capacity": 30,
+        "launchTime": "1912-04-15T02:40:00Z",
+        "survivorsCount": 25
+      }
+    }
+  ]
+  

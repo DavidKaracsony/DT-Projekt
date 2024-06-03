@@ -1,0 +1,21 @@
+[
+    {
+      "cabinID": 1,
+      "cabin_name": "C",
+      "cabin_number": 105,
+      "deck": "D"
+    },
+    {
+      "cabinID": 2,
+      "cabin_name": "B",
+      "cabin_number": 205,
+      "deck": "E"
+    },
+    {
+      "cabinID": 3,
+      "cabin_name": "A",
+      "cabin_number": 305,
+      "deck": "F"
+    }
+  ]
+  
