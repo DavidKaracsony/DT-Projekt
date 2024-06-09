@@ -4,39 +4,39 @@
       "first_name": "Alice",
       "last_name": "Johnson",
       "role": "Nurse",
+      "cabin_id": 1,
       "assignedBoat": {
         "lifeboat_id": 101,
         "capacity": 20,
         "launchTime": "1912-04-15T02:20:00Z",
         "survivorsCount": 18
-      },
-      "cabin_id": 1
+      }
     },
     {
       "crewID": 2,
       "first_name": "Robert",
       "last_name": "Williams",
       "role": "Engineer",
+      "cabin_id": 2,
       "assignedBoat": {
         "lifeboat_id": 102,
         "capacity": 25,
         "launchTime": "1912-04-15T02:30:00Z",
         "survivorsCount": 22
-      },
-      "cabin_id": 2
+      }
     },
     {
       "crewID": 3,
       "first_name": "Michael",
       "last_name": "Brown",
       "role": "Captain",
+      "cabin_id": 3,
       "assignedBoat": {
         "lifeboat_id": 103,
         "capacity": 30,
         "launchTime": "1912-04-15T02:40:00Z",
         "survivorsCount": 25
-      },
-      "cabin_id": 3
+      }
     }
   ]
   
