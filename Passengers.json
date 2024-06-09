@@ -1,14 +1,14 @@
 [
     {
       "passengerID": 1,
-      "first_name": "John",
-      "last_name": "Doe",
+      "first_name": "David",
+      "last_name": "Karacsony",
       "gender": "Male",
-      "age": 30,
+      "age": 21,
       "survived": true,
       "SibSp": 1,
       "ParCh": 0,
-      "family_size": 1,
+      "family_size": 2,
       "embarking_port": "Southampton",
       "address": {
         "street": "123 Elm St",
@@ -48,7 +48,7 @@
         "postal_code": "12345",
         "town": "Paris",
         "country": "France",
-        "state": "Île-de-France"
+        "state": "Ile-de-France"
       },
       "ticket": {
         "ticket_code": "B789012",
